@@ -1,8 +1,4 @@
 # DataLearn Course
 ## Data Engineering
 
-Labs
-
-test
-
-
+No Labs
